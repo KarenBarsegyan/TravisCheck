@@ -1,2 +1,2 @@
 language: cpp
-install: ./install-dependencies.sh
+install: skip
