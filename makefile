@@ -1,2 +1,2 @@
 all:
-	g++ send_cone_coordinate.cpp
+	g++ triangulation/src/send_cone_coordinate.cpp
