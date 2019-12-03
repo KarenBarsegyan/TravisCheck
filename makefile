@@ -1,2 +1,2 @@
 all:
-	gcc send_cone_coordinate.cpp
+	g++ send_cone_coordinate.cpp
