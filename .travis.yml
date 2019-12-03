@@ -5,4 +5,4 @@ addons:
     packages:
       - cmake
 
-script: make
+script: cmake
