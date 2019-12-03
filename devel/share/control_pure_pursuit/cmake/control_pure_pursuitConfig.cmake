@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/control_pure_pursuit/share/control_pure_pursuit/cmake/control_pure_pursuitConfig.cmake

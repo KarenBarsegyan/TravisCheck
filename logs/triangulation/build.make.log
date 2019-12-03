@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target teleop_recieve_send[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/teleop_recieve_send.dir/src/teleop_recieve_send.cpp.o[0m
+[ 75%] Built target send_cone_coordinate
+[100%] [32m[1mLinking CXX executable /home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/lib/triangulation/teleop_recieve_send[0m
+[100%] Built target teleop_recieve_send

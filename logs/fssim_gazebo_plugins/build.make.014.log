@@ -1,0 +1,4 @@
+[ 16%] Built target gazebo_utils
+[ 33%] Built target gazebo_track
+[ 58%] Built target gazebo_cone_sensor
+[100%] Built target gazebo_race_car_model

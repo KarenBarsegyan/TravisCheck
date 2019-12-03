@@ -1,0 +1,5 @@
+Linked: (/home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/share/triangulation/cmake/triangulationConfig-version.cmake, /home/karenbarsegyan/BRTDriverless/devel/share/triangulation/cmake/triangulationConfig-version.cmake)
+Linked: (/home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/share/triangulation/cmake/triangulationConfig.cmake, /home/karenbarsegyan/BRTDriverless/devel/share/triangulation/cmake/triangulationConfig.cmake)
+Linked: (/home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/lib/triangulation/teleop_recieve_send, /home/karenbarsegyan/BRTDriverless/devel/lib/triangulation/teleop_recieve_send)
+Linked: (/home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/lib/triangulation/send_cone_coordinate, /home/karenbarsegyan/BRTDriverless/devel/lib/triangulation/send_cone_coordinate)
+Linked: (/home/karenbarsegyan/BRTDriverless/devel/.private/triangulation/lib/pkgconfig/triangulation.pc, /home/karenbarsegyan/BRTDriverless/devel/lib/pkgconfig/triangulation.pc)

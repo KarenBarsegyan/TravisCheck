@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/velocity_estimator/share/velocity_estimator/cmake/velocity_estimatorConfig.cmake

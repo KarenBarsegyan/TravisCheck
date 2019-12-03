@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/control_meta
+
+Name: control_meta
+Description: Description of control_meta
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/control_meta/lib 
+Requires: 

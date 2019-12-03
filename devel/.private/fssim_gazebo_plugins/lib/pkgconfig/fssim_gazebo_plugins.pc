@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins
+
+Name: fssim_gazebo_plugins
+Description: Description of fssim_gazebo_plugins
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins/lib -lpcl_ros
+Requires: tf pcl_ros

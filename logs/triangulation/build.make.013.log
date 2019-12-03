@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target teleop_recieve_send[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/teleop_recieve_send.dir/src/teleop_recieve_send.cpp.o[0m
+[ 75%] Built target send_cone_coordinate
+[01m[K/home/karenbarsegyan/BRTDriverless/src/triangulation/src/teleop_recieve_send.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/karenbarsegyan/BRTDriverless/src/triangulation/src/teleop_recieve_send.cpp:36:9:[m[K [01;31m[Kerror: [m[K‘[01m[KCom[m[K’ was not declared in this scope
+         Com.steering_angle.data = 0;
+[01;32m[K         ^[m[K
+CMakeFiles/teleop_recieve_send.dir/build.make:62: recipe for target 'CMakeFiles/teleop_recieve_send.dir/src/teleop_recieve_send.cpp.o' failed
+make[2]: *** [CMakeFiles/teleop_recieve_send.dir/src/teleop_recieve_send.cpp.o] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/teleop_recieve_send.dir/all' failed
+make[1]: *** [CMakeFiles/teleop_recieve_send.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

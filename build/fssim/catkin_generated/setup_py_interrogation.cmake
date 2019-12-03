@@ -1,0 +1,6 @@
+set(fssim_SETUP_PY_VERSION "0.0.0")
+set(fssim_SETUP_PY_SCRIPTS "")
+set(fssim_SETUP_PY_PACKAGES "fssim")
+set(fssim_SETUP_PY_PACKAGE_DIRS "src/fssim")
+set(fssim_SETUP_PY_MODULES "")
+set(fssim_SETUP_PY_MODULE_DIRS "")

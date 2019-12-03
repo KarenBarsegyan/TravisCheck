@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/perception_meta/lib/pkgconfig/perception_meta.pc

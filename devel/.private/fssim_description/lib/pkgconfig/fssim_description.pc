@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_description
+
+Name: fssim_description
+Description: Description of fssim_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_description/lib -lmodels
+Requires: gazebo_ros

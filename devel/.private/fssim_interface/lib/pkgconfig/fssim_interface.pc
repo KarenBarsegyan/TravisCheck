@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_interface
+
+Name: fssim_interface
+Description: Description of fssim_interface
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_interface/lib 
+Requires: 

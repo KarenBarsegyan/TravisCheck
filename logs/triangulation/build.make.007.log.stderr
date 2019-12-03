@@ -1,0 +1,6 @@
+[01m[K/home/karenbarsegyan/BRTDriverless/src/triangulation/src/send_cone_coordinate.cpp:10:20:[m[K [01;31m[Kfatal error: [m[Kvector.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/send_cone_coordinate.dir/src/send_cone_coordinate.cpp.o] Error 1
+make[1]: *** [CMakeFiles/send_cone_coordinate.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2

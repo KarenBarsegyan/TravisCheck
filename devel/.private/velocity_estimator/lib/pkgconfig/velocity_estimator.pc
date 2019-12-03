@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/velocity_estimator
+
+Name: velocity_estimator
+Description: Description of velocity_estimator
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/velocity_estimator/lib 
+Requires: 

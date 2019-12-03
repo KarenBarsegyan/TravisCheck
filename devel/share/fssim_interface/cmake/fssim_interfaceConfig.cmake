@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_interface/share/fssim_interface/cmake/fssim_interfaceConfig.cmake

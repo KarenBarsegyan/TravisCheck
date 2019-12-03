@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/slam_slam
+
+Name: slam_slam
+Description: Description of slam_slam
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/slam_slam/lib 
+Requires: 

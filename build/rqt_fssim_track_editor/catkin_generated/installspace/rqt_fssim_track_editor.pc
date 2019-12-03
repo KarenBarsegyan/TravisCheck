@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/install
+
+Name: rqt_fssim_track_editor
+Description: Description of rqt_fssim_track_editor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/install/lib 
+Requires: 

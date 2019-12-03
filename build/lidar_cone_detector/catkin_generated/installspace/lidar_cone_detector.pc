@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/install
+
+Name: lidar_cone_detector
+Description: Description of lidar_cone_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/install/lib 
+Requires: 

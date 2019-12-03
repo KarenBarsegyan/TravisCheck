@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/estimation_meta
+
+Name: estimation_meta
+Description: Description of estimation_meta
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/estimation_meta/lib 
+Requires: 

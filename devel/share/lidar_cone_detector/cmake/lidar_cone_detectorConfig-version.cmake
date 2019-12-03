@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/lidar_cone_detector/share/lidar_cone_detector/cmake/lidar_cone_detectorConfig-version.cmake

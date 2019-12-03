@@ -1,0 +1,20 @@
+[35m[1mScanning dependencies of target gazebo_utils[0m
+[35m[1mScanning dependencies of target gazebo_track[0m
+[35m[1mScanning dependencies of target gazebo_race_car_model[0m
+[  8%] [32mBuilding CXX object gazebo_utils/CMakeFiles/gazebo_utils.dir/src/noise.cpp.o[0m
+[ 16%] [32mBuilding CXX object gazebo_track/CMakeFiles/gazebo_track.dir/src/gazebo_track.cpp.o[0m
+[ 25%] [32mBuilding CXX object gazebo_race_car_model/CMakeFiles/gazebo_race_car_model.dir/src/vehicle.cpp.o[0m
+[ 33%] [32mBuilding CXX object gazebo_race_car_model/CMakeFiles/gazebo_race_car_model.dir/src/wheel.cpp.o[0m
+[ 41%] [32mBuilding CXX object gazebo_race_car_model/CMakeFiles/gazebo_race_car_model.dir/src/gazebo_ros_race_car_model.cpp.o[0m
+[ 50%] [32mBuilding CXX object gazebo_race_car_model/CMakeFiles/gazebo_race_car_model.dir/src/axle.cpp.o[0m
+[ 58%] [32m[1mLinking CXX shared library /home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins/lib/libgazebo_utils.so[0m
+[ 58%] Built target gazebo_utils
+[35m[1mScanning dependencies of target gazebo_cone_sensor[0m
+[ 66%] [32mBuilding CXX object gazebo_cone_sensor/CMakeFiles/gazebo_cone_sensor.dir/src/gazebo_cone_sensor.cpp.o[0m
+[ 75%] [32mBuilding CXX object gazebo_cone_sensor/CMakeFiles/gazebo_cone_sensor.dir/src/cone_sensor_model.cpp.o[0m
+[ 83%] [32m[1mLinking CXX shared library /home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins/lib/libgazebo_track.so[0m
+[ 83%] Built target gazebo_track
+[ 91%] [32m[1mLinking CXX shared library /home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins/lib/libgazebo_race_car_model.so[0m
+[ 91%] Built target gazebo_race_car_model
+[100%] [32m[1mLinking CXX shared library /home/karenbarsegyan/BRTDriverless/devel/.private/fssim_gazebo_plugins/lib/libgazebo_cone_sensor.so[0m
+[100%] Built target gazebo_cone_sensor

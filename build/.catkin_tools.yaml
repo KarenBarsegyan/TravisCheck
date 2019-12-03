@@ -1,0 +1,6 @@
+devel_space: /home/karenbarsegyan/BRTDriverless/devel
+install: false
+install_space: /home/karenbarsegyan/BRTDriverless/install
+profile: default
+source_space: /home/karenbarsegyan/BRTDriverless/src
+workspace: /home/karenbarsegyan/BRTDriverless

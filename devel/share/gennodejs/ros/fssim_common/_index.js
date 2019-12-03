@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_common/share/gennodejs/ros/fssim_common/_index.js

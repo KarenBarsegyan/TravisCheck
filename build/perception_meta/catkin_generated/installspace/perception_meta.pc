@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/install
+
+Name: perception_meta
+Description: Description of perception_meta
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/install/lib 
+Requires: 

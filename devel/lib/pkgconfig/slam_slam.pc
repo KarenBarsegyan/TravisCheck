@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/slam_slam/lib/pkgconfig/slam_slam.pc

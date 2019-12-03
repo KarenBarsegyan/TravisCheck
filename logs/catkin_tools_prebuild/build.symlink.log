@@ -1,0 +1,12 @@
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./local_setup.bash
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./_setup_util.py
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./local_setup.sh
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./cmake.lock
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./setup.zsh
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./setup.bash
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./local_setup.zsh
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./setup.sh
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/./env.sh
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/karenbarsegyan/BRTDriverless/devel/lib/pkgconfig/catkin_tools_prebuild.pc

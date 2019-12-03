@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_rqt_plugins/share/fssim_rqt_plugins/cmake/fssim_rqt_pluginsConfig.cmake

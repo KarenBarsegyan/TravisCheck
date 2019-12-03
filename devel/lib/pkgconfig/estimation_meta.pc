@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/estimation_meta/lib/pkgconfig/estimation_meta.pc

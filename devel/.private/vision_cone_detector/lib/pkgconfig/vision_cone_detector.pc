@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/vision_cone_detector
+
+Name: vision_cone_detector
+Description: Description of vision_cone_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/vision_cone_detector/lib 
+Requires: 

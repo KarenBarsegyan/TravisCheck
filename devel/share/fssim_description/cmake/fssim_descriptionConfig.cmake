@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_description/share/fssim_description/cmake/fssim_descriptionConfig.cmake

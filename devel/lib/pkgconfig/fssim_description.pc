@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_description/lib/pkgconfig/fssim_description.pc

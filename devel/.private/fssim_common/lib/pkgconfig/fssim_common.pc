@@ -1,0 +1,8 @@
+prefix=/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_common
+
+Name: fssim_common
+Description: Description of fssim_common
+Version: 0.0.0
+Cflags: -I/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_common/include
+Libs: -L/home/karenbarsegyan/BRTDriverless/devel/.private/fssim_common/lib 
+Requires: message_runtime

@@ -1,0 +1,1 @@
+/home/karenbarsegyan/BRTDriverless/devel/.private/fsd_common_meta/lib/pkgconfig/fsd_common_meta.pc
