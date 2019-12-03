@@ -1,3 +1,8 @@
 language: cpp
 install: skip
-
+rvm:
+  - 1.9.3
+  - rbx-18mode
+env:
+  - FOO=foo BAR=bar
+  - FOO=bar BAR=foo
