@@ -1,2 +1,4 @@
 language: cpp
-script: build
+script:
+  - cargo build --verbose --all
+  - cargo test --verbose --all
